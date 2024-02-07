@@ -28,3 +28,8 @@ Chromeを起動後、拡張機能を管理に移動します
 [無料ADM-201-JPN試験問題集](https://www.jpnshiken.com/exam/ADM-201-JPN-salesforce-certified-administrator-adm-201%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88-8818.html)でのSalesforce用語などが、まだ読める形になっているかと思います。
 
 ![c4](https://github.com/hkj/convertJPN/assets/315029/0d5612d0-bee5-45bd-a52f-167b4d73c826)
+
+## アンインストール
+削除ボタンを押して下さい
+
+![c5u](https://github.com/hkj/convertJPN/assets/315029/cb4bb085-b0cb-4efb-a669-7730a7522ab1)
