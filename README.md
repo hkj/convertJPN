@@ -8,7 +8,7 @@ JPN試験のSalesforce関係の用語を、少しでも見易くしてみるChro
 サイトを開いてから、文字が変換されるまで時間がかかる。遅い。
 
 ## ダウンロード
-[こちらのサイトからconvertJPN.zip](https://github.com/hkj/convertJPN/releases/tag/v1.0)をダウンロードして下さい
+[こちらのサイトからconvertJPN.zip](https://github.com/hkj/convertJPN/releases/)をダウンロードして下さい
 どこかのフォルダにzipファイルを解凍して下さい
 
 ## インストール
