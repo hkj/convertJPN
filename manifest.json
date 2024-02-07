@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "JPN試験問題集日本語変換",
+  "version": "1.0",
+  "description": "特定のページ内の日本語を指定の言葉に変換します。",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.jpnshiken.com/*Salesforce*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
