@@ -14,15 +14,15 @@ JPN試験のSalesforce関係の用語を、少しでも見易くしてみるChro
 ## インストール
 Chromeを起動後、拡張機能を管理に移動します
 
-![c1](https://github.com/hkj/convertJPN/assets/315029/3f2fa83b-edcf-48ce-8d26-5732018e0dfc)
+![c1k](https://github.com/hkj/convertJPN/assets/315029/64157728-6a0c-4e25-a2a0-91825e358e19)
 
 デベロッパーモードをONにします
 
-![c2](https://github.com/hkj/convertJPN/assets/315029/fd3ce6d5-24f6-4e96-b0af-994729f5845c)
+![c2k](https://github.com/hkj/convertJPN/assets/315029/544e58f8-fd21-42e0-a1b9-12eda2c9bcec)
 
 パッケージ化されてない拡張機能を読み込みます。先程Zipファイルを解凍した際にできたconvertJPNフォルダを指定します
 
-![c3](https://github.com/hkj/convertJPN/assets/315029/2fb850bf-21af-4174-86da-43295fecfadc)
+![c3k](https://github.com/hkj/convertJPN/assets/315029/24e00cd0-93a3-4d73-883f-5b1b989a3f4f)
 
 こんな画像が出て機能がONになっていれば成功です。
 [無料ADM-201-JPN試験問題集](https://www.jpnshiken.com/exam/ADM-201-JPN-salesforce-certified-administrator-adm-201%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88-8818.html)でのSalesforce用語などが、まだ読める形になっているかと思います。
