@@ -17,9 +17,7 @@ const wordMappings =
   ],
   "主従関係": [
     "マスター/詳細",
-    "マスター/詳細ルックアップ",
     "マスター詳細",
-    "マスター詳細ルックアップ"
   ],
   // "参照関係": [
   //   "ルックアップ"
@@ -85,9 +83,6 @@ const wordMappings =
   "共有ルール": [
     "ルールの共有"
   ],
-  // "取引先責任者-to-複数取引先": [
-  //   "複数のアカウントへの連絡先"
-  // ],
   "test.salesforce.com": [
     "test.saiesiorcc.com"
   ],
@@ -139,6 +134,7 @@ function replaceContextSpecificCases(text) {
   text = text.replace(/パスキーフィールド/g, 'パスの重要な項目');
   text = text.replace(/パス キーフィールド/g, 'パスの重要な項目');
   text = text.replace(/パス キー フィールド/g, 'パスの重要な項目');
+  text = text.replace(/キーフィールド/g, '重要な項目');
   text = text.replace(/フィールドアップデート/g, '項目自動更新');
 
   // 「フィールドと関係」のように複数の単語が含まれるフレーズの置き換え
